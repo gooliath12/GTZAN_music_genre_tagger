@@ -1,4 +1,4 @@
-# GTZAN Music Genre Tagger -- Multi-level CNN
+# Part 1 -- Multi-level CNN
 
 This is the first part of our project, which uses a pre-trained CNN to extract features from input spectrogram, and uses a neural network-based classifier to predict the genre of the spectrogram based on its features extracted by CNN.
 
