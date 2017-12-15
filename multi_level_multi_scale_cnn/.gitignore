@@ -1,0 +1,5 @@
+dataset/
+local_features/
+others/
+train_logs/
+weights/
